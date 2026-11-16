@@ -1,0 +1,8 @@
+chromadb
+sentence-transformers
+langchain-text-splitters
+tiktoken
+streamlit
+python-dotenv
+google-genai
+reportlab
